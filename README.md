@@ -1,0 +1,3 @@
+- Introduction ✔️
+- Nos premiers pas avec React ✔️
+- La syntaxe JSX ✔️
